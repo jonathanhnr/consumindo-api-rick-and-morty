@@ -1,0 +1,41 @@
+.card{
+    display: inline-flex;
+    background: #7fffd4;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 120px;
+    padding: 1px 5px 1px 5px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.name{
+    width: 120px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.card-alive{
+    background: #f1f7ff;
+    border: solid 1px #e6e6e6;
+
+}
+.card-dead{
+    background: #f8ccce;
+    border: solid 1px #9b7576;
+}
+.card-alive .name{
+    color: #5a9fa6;
+
+}
+.card-dead .name{
+    color: #a86070;
+}
