@@ -1,10 +1,6 @@
 
 project image
 
-[![React-App-Brave-05-01-2023-13-30-58.png](https://i.postimg.cc/QxWpq5LY/React-App-Brave-05-01-2023-13-30-58.png)](https://postimg.cc/QHh98Fdc)
-
-
-
 
 # Getting Started with Create React App
 
