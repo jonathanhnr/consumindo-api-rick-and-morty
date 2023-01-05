@@ -24,7 +24,7 @@ function App() {
                 <Characters characterList={characterList}/>
                 <button className={"button"} onClick={() => {
                     setCurrentPage(pageInfo.next);
-                }}>proxima</button>
+                }}>Carregar mais personagens</button>
             </header>
 
         </div>
